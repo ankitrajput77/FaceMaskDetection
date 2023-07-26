@@ -1,0 +1,10 @@
+imutils
+keras
+numpy
+opencv-python
+scikit-learn 
+tensorflow
+streamlit
+pillow
+
+-e .
