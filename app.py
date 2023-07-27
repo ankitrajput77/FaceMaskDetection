@@ -60,5 +60,3 @@ if st.sidebar.button('Start WebCam'):
     st.title("WebCam starting in some time, usually it takes 4-5 seconds")
     detect_from_video.real_time()
 st.sidebar.text("Enter ESC button to stop")
-
-
