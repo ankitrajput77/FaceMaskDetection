@@ -5,6 +5,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Tools](#Tools)
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Model](#model)
@@ -22,6 +23,10 @@ Face Mask Detection is a computer vision project aimed at detecting whether a pe
 - High accuracy due to the deep learning model used.
 - Easy-to-use interface for both developers and end-users.
 - Streamlit WebApp, Simple and accurate.
+
+## Tools
+<img width="587" alt="Screenshot 2023-07-29 152144" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/aa161e65-9041-4c1b-b5b5-55b9bf531d53">
+<img width="439" alt="Screenshot 2023-07-29 152152" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/44be9c76-1426-419f-99fa-6af51c6df663">
 
 ## Installation
 
