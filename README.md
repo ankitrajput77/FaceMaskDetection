@@ -10,7 +10,7 @@
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Project Demo](#Project Demo)
+- [Project Demo](#ProjectDemo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -77,7 +77,7 @@ The model achieved an accuracy of 96% on the test dataset. The performance may v
 <img width="573" alt="Screenshot 2023-07-29 151541" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/4335d6ac-66a6-452c-a8c4-1ac59237215a">
 <img width="536" alt="Screenshot 2023-07-29 151552" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/d267d5d0-5ec5-4b5d-a861-be3cf9bd0f4a">
 
-## Project Demo
+## ProjectDemo
 https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/094d1030-83f1-431c-a005-40c9af297668
 
 ## Contributing
